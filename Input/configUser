@@ -1,0 +1,3 @@
+user   :: uid, sex :: facebook/Happiestminds/
+comment::time,user_likes,text,can_comment,can_like,comment_count,fromid,id,likes,parent_id,post_fbid,post_id :: facebook/Happiestminds/
+like   :: post_id, user_id			:: facebook/Happiestminds/
